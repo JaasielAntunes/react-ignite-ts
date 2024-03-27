@@ -111,7 +111,6 @@
   color: var(--white);
   font-weight: bold;
   cursor: pointer;
-  transition: .2s ease-in-out;
 }
 
 .commentForm button[type="submit"]:hover {
